@@ -40,7 +40,7 @@ echo -e "pla\npla" | smbpasswd -a pla
 # -------------------------------------------------------------------
 # Creació dels comptes samba i directoris dels usuaris ldap ---------
 # ha de ser un cop activat ldap/ nslcd...
-#bash /opt/docker/ldapusers.sh
+#bash /opt/docker/usersSambaUnixLdap.sh
 # ===================================================================
 
 # Configuració NFS =================================================
